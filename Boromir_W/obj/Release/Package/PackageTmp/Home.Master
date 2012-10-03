@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="Boromir_W.Home" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width-device-width, initial-scale=1, maximum-scale=1" />
+    <Link rel="stylesheet" type="text/css" href="Style.css">
+    <title>Boromir</title>
+    <script language="javascript" src="jquery.js"></script>
+    <script language="javascript" src="modal.popup.js"></script>
+    <script language="javascript">
+              $(document).ready(function () {
+
+            var align = 'center'; 								//Valid values; left, right, center
+            var top = 100; 											//Use an integer (in pixels)
+            var width = 500; 										//Use an integer (in pixels)
+            var padding = 10; 									//Use an integer (in pixels)
+            var backgroundColor = '#FFFFFF';
+            
+           								//Refer to any page on your server, external pages are not valid e.g. http://www.google.co.uk
+            var borderColor = '#87D13E'; 							//Use any hex code
+            var borderWeight = 4; 									//Use an integer (in pixels)
+            var borderRadius = 5; 									//Use an integer (in pixels)
+            var fadeOutTime = 300; 									//Use any integer, 0 = no fade
+            var disableColor = '#666666'; 				
+            			//Use any hex code
+            var disableOpacity = 40; 								//Valid range 0-100
+            var loadingImage = 'lib/release-0.0.1/loading.gif'; 	//Use relative path from this page
+
+            //This method initialises the modal popup
+            $(".modal").click(function () {
+                var codigo = document.getElementById(this.id);
+                var cod = codigo.getAttribute("data-codigo")						//Use any hex code
+                var source = 'ProductoUp.aspx?cdg=' + cod; 
+                modalPopup(align, top, width, padding, disableColor, disableOpacity, backgroundColor, borderColor, borderWeight, borderRadius, fadeOutTime, source, loadingImage);
+            });
+
+            //This method hides the popup when the escape key is pressed
+            $(document).keyup(function (e) {
+                if (e.keyCode == 27) {
+                    closePopup(fadeOutTime);
+                }
+            });
+
+        });
+	
+</script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+   </head>
+<body>
+    <form id="form1" runat="server">
+        <section>        
+         <asp:ImageButton ID="ImgBuscar"  CssClass ="buscador"  runat="server" ImageUrl="~/Imagenes/Search.png" onclick="ImgBuscar_Click" />  
+         <asp:TextBox ID="TxtBuscar" CssClass ="buscador" runat="server"></asp:TextBox>     
+         <asp:ImageButton ID="Carrito"  CssClass ="buscador" runat="server" ImageUrl="~/Imagenes/Logo.png"  Height="24px"  Width="24px" onclick="Carrito_Click" />
+         <asp:Label ID="LbCtd" ClientIDMode="Static" runat="server"  CssClass ="buscador" Text="" ></asp:Label>
+      </section>
+
+     
+     <section class="menu">         
+          <asp:Button ID="BtMarca" runat="server"  CssClass="botones" Text="Marca" onclick="Btn_Click1" ></asp:Button>
+          <asp:Button ID="BtCategoria" runat="server"  CssClass="botones" Text="Categoria" onclick="Btn2_Click"></asp:Button> 
+           <asp:GridView ID="Filtro_1" runat="server" 
+            onselectedindexchanged="Filtro_1_SelectedIndexChanged1" ShowHeader="False">
+               <Columns>
+                   <asp:CommandField ButtonType="Image" SelectImageUrl="~/Imagenes/Check.png" 
+                       SelectText="" ShowSelectButton="True" />
+               </Columns>             
+           </asp:GridView>
+           <asp:Button ID="Btsalir" runat="server"  CssClass="botones" Text="Salir" 
+            onclick="Btsalir_Click"  ></asp:Button>
+   </section>
+
+    <section  class="principal">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+    </section>
+    </form>
+</body>
+</html>

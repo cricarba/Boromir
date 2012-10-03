@@ -1,0 +1,5 @@
+C:\Users\Cristian\Dropbox\Boromir\Boromir_Web\Boromir_W\Boromir_W\bin\Boromir_W.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_Web\Boromir_W\Boromir_W\bin\Boromir_W.pdb
+C:\Users\Cristian\Dropbox\Boromir\Boromir_Web\Boromir_W\Boromir_W\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cristian\Dropbox\Boromir\Boromir_Web\Boromir_W\Boromir_W\obj\Release\Boromir_W.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_Web\Boromir_W\Boromir_W\obj\Release\Boromir_W.pdb
