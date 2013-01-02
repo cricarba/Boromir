@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Boromir", "Boromir desk\Boromir.vbproj", "{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{262A98F6-08E7-46D0-9B20-8C9BEA7BFDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Debug|x86.ActiveCfg = Debug|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Debug|x86.Build.0 = Debug|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Release|Any CPU.ActiveCfg = Release|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Release|x86.ActiveCfg = Release|x86
+		{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="31cb1981-307d-4caa-bfb7-64c5f2850e12" name="Facturacion" linkedPackageId="e4c63747-8745-43d0-a90f-f666d5ed1755" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="6aabda9d-7394-44cc-9d2d-a97079382527">
+      <profileInstance Id="c5814b98-c2ba-46c0-9144-9cd26bd63ed3" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="e9d16c87-e9d7-4f38-92cd-c43ea32236cf">
+      <profileInstance Id="fec52e16-bd8b-420a-95bf-3466cd3863a3" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="a5c1473b-3081-4fb8-842b-11f1db2826e0" name="Cajero" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="429fa726-d51d-427f-add1-dbd448a8a2c0" />
+        <suppliersInternal>
+          <dependency Id="4192168e-ef68-4871-8dfa-050f3412265f">
+            <useCaseMoniker Id="4b4c5e3e-4834-4ac6-b685-62b85ba65f73" LastKnownName="Saldos" />
+            <elementDefinition Id="905249a3-bf5d-4df8-812e-439e600727d4" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="0e7accda-fb78-45db-8aa4-26cdbd1e225f" isDerived="false" sourceEndRoleName="Cajero" targetEndRoleName="Compra - Venta" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="9bf47a65-e3cc-4617-9524-edb268c1657f" LastKnownName="Compra - Venta" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="9c4125c2-cecd-450c-825a-eb2cfe494149" name="Cajero" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="5b35be30-e9e0-4ae1-990d-02915bf70d23" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="82edb601-2f39-491c-a4f9-519adcf8bfdf" name="Compra - Venta" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="c1a27f8c-2d9d-4c9b-b242-b84a2f5b1de5" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="e121faec-f623-4642-a8c6-967014cf40e2" />
+          </association>
+          <association Id="e686a02d-5c35-4e6c-bfc8-627d9448e2f4" isDerived="false" sourceEndRoleName="Cajero" targetEndRoleName="Facturar" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="0389af9b-8c63-407e-9f3d-e101f4665e64" LastKnownName="Facturar" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7a56bc2b-0360-4a06-8a83-622c187add5d" name="Cajero" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="b52f9495-e0ea-454e-b862-2bf5ea465fb4" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="343a4bb4-786e-4205-9b71-54120ab7938e" name="Facturar" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="d67601c6-9ddb-4df3-b88a-d7c78ee2d2e2" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="70446d14-1ac9-4118-8b74-65965db82f4f" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="2fc7d815-136d-4303-9458-d3311e814037" name="Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="77693102-4d3a-46f6-9b93-5854018238a4" />
+        <targetEnds>
+          <association Id="058d2507-1e25-4ae7-a9ce-b737eb9ebc21" isDerived="false" sourceEndRoleName="Cliente" targetEndRoleName="Comprar" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="9bf47a65-e3cc-4617-9524-edb268c1657f" LastKnownName="Compra - Venta" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="0483a8ed-8f04-4ec9-b7c5-5436e17a1c25" name="Cliente" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="5c6a3026-9709-4c0a-b3ec-75b5d05db2fa" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a3dd79bd-2120-4156-b22c-009142a0e680" name="Comprar" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="58006fbc-4701-4ed1-96cb-d586bcedc997" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="6273ba24-8a13-4541-8ba5-8c6d7af7d64c" />
+          </association>
+          <association Id="526dd65e-6f37-4d78-9055-32cde090c8dc" isDerived="false" sourceEndRoleName="Cliente" targetEndRoleName="Cotizar" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="f05baecf-6953-436a-bf9c-c00b7f549ebe" LastKnownName="Cotizar" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f6e21f13-82b2-4628-8df6-d0881f930f83" name="Cliente" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="e2c8542a-17d0-40e6-9ee2-bd2d6313c283" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a1e8d772-44ff-4b5d-b5ef-3f75ad7fcc08" name="Cotizar" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="f22953fb-db32-411d-a99e-5d382ec0e682" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="e3893859-8460-4158-b277-341ab4daee9b" />
+          </association>
+          <association Id="85254b80-283c-4fcd-9f66-b59a1c1d3303" isDerived="false" sourceEndRoleName="Cliente" targetEndRoleName="Reservar" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="a406bcdf-b780-42ba-b6a8-cbc4da61f8bb" LastKnownName="Reservar" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="b8628e03-efed-4b3a-88f9-c67d5313e125" name="Cliente" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="47365670-f0fa-4115-bd3e-c5a291be8043" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="91856ed9-26a0-45f2-969f-0ca6db54c09a" name="Reservar" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="f2b4abf6-268a-42d8-9bbd-806b64e58618" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="f92b70c6-e529-4f29-a477-2c783c47b996" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <subsystem Id="2617e2a3-4744-4dc4-8020-322b155d9a3b" name="Facturacion" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <appliedStereotypesInternal>
+          <stereotypeInstance Id="1fbcbe2e-229c-4b8c-9972-4913334cb928" name="process" profile="StandardProfileL2">
+            <elementDefinition Id="f2fb6330-d41c-4567-96e6-4af4df6eb3a8" />
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <elementDefinition Id="bb54a45b-d435-4b69-a09d-b47ea1b30978" />
+      </subsystem>
+    </useCaseModelRootHasTypes>
+    <packageHasNamedElement>
+      <useCase Id="9bf47a65-e3cc-4617-9524-edb268c1657f" name="Compra - Venta" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="06f2a4f4-2138-40a0-8208-0d5b0f37082b" />
+        <suppliersInternal>
+          <dependency Id="39740ad4-6220-4b7d-8bda-ba5b458f2301">
+            <useCaseMoniker Id="0389af9b-8c63-407e-9f3d-e101f4665e64" LastKnownName="Facturar" />
+            <elementDefinition Id="1249b2bb-8136-4824-82c1-632e713b9386" />
+          </dependency>
+        </suppliersInternal>
+        <extendedCases>
+          <extend Id="0fb7128b-13bf-4550-bdd5-c0eae8e4c32d">
+            <useCaseMoniker Id="4b4c5e3e-4834-4ac6-b685-62b85ba65f73" LastKnownName="Saldos" />
+            <elementDefinition Id="186691c7-722e-476b-85e7-41afe6808f79" />
+          </extend>
+        </extendedCases>
+        <subjects>
+          <subsystemMoniker Id="2617e2a3-4744-4dc4-8020-322b155d9a3b" LastKnownName="Facturacion" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase Id="f05baecf-6953-436a-bf9c-c00b7f549ebe" name="Cotizar" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e3c30535-b166-4247-8545-296e74b00697" />
+        <extendedCases>
+          <extend Id="bf6979c8-e01c-4593-9ad3-5ebec44c7c81">
+            <useCaseMoniker Id="4b4c5e3e-4834-4ac6-b685-62b85ba65f73" LastKnownName="Saldos" />
+            <elementDefinition Id="57cd2ada-372b-47dd-bbdd-1ec5b4d1e158" />
+          </extend>
+        </extendedCases>
+        <subjects>
+          <subsystemMoniker Id="2617e2a3-4744-4dc4-8020-322b155d9a3b" LastKnownName="Facturacion" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <useCaseModelRootHasTypes>
+      <useCase Id="4b4c5e3e-4834-4ac6-b685-62b85ba65f73" name="Saldos" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="f1177700-cb6e-4b59-8a15-a0628c376968" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <packageHasNamedElement>
+      <useCase Id="a406bcdf-b780-42ba-b6a8-cbc4da61f8bb" name="Reservar" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="aacfb5eb-7f51-4dca-a7f2-e93b818507f8" />
+        <additions>
+          <include Id="3b0dfa98-2489-4c85-813e-907e6bf5fa17">
+            <useCaseMoniker Id="1946f005-3586-4899-81b8-9e2bff9ef0c8" LastKnownName="Escenarios" />
+            <elementDefinition Id="653102be-7106-40e0-a98b-263469a87340" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker Id="2617e2a3-4744-4dc4-8020-322b155d9a3b" LastKnownName="Facturacion" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <useCaseModelRootHasTypes>
+      <useCase Id="1946f005-3586-4899-81b8-9e2bff9ef0c8" name="Escenarios" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="c87cc452-998c-4c9a-b38a-dc85bfc0eea4" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <packageHasNamedElement>
+      <useCase Id="0389af9b-8c63-407e-9f3d-e101f4665e64" name="Facturar" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="744932ef-ea68-40dc-82b9-8a1dfcbb9571" />
+        <subjects>
+          <subsystemMoniker Id="2617e2a3-4744-4dc4-8020-322b155d9a3b" LastKnownName="Facturacion" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="e4c63747-8745-43d0-a90f-f666d5ed1755" name="CU_Facturacion">
+    <elementDefinition Id="aa27b7d9-6335-4bf1-9559-fc1c9e7ca675" />
+  </package>
+</useCaseModelRoot>

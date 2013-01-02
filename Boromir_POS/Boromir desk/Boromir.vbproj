@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D33C8D65-72D0-46EE-8B3C-2A8F7CF6A777}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Boromir.My.MyApplication</StartupObject>
+    <RootNamespace>Boromir</RootNamespace>
+    <AssemblyName>Boromir</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Cristian\Dropbox\Boromir\Boromir_exe\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>true</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>https://www.dropbox.com/s/ie3rilbutp5ru24/Boromir_exe.rar/</UpdateUrl>
+    <ProductName>Boromir</ProductName>
+    <PublisherName>Boromir</PublisherName>
+    <MinimumRequiredVersion>1.0.7.1</MinimumRequiredVersion>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.1.7.1</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AD1F69DF0DCB750F9446F9DE82D3D584A6373F88</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Boromir desk_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Pegazux.Controls">
+      <HintPath>..\..\..\..\Downloads\TechPeru.Wordpress.com\Pegazux.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1_Modul_Administracion\Proyectos.Designer.vb">
+      <DependentUpon>Proyectos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Proyectos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Pedidos.Designer.vb">
+      <DependentUpon>Pedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Pedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Ordenes_Compra.Designer.vb">
+      <DependentUpon>Ordenes_Compra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Ordenes_Compra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6_Modul_Reportes\Vista_Previa.Designer.vb">
+      <DependentUpon>Vista_Previa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="6_Modul_Reportes\Vista_Previa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_Funciones\C_Auditoria.vb" />
+    <Compile Include="8_Funciones\F_asigna_nombre.vb" />
+    <Compile Include="8_Funciones\F_Licencia.vb" />
+    <Compile Include="5_Modul_Ayuda\Acerca.Designer.vb">
+      <DependentUpon>Acerca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5_Modul_Ayuda\Acerca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5_Modul_Ayuda\Manuales.Designer.vb">
+      <DependentUpon>Manuales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5_Modul_Ayuda\Manuales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Conceptos.Designer.vb">
+      <DependentUpon>Conceptos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Conceptos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Saldos.Designer.vb">
+      <DependentUpon>Saldos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Saldos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Empresa.Designer.vb">
+      <DependentUpon>Empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5_Modul_Ayuda\Mensajes.Designer.vb">
+      <DependentUpon>Mensajes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5_Modul_Ayuda\Mensajes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Cotizaciones.Designer.vb">
+      <DependentUpon>Cotizaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Cotizaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Auditoria.Designer.vb">
+      <DependentUpon>Auditoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Auditoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6_Modul_Reportes\Reporteador.Designer.vb">
+      <DependentUpon>Reporteador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="6_Modul_Reportes\Reporteador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_Funciones\Seguridad.vb" />
+    <Compile Include="Tools_Bar\Barra_desplazamineto\F_anterior_registro.vb" />
+    <Compile Include="8_Funciones\F_recargar_apps.vb" />
+    <Compile Include="2_Modul_Inventarios\Productos.Designer.vb">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools_Bar\F_Boton_Anular.vb" />
+    <Compile Include="Tools_Bar\F_Boton_cerrar_pestaña.vb" />
+    <Compile Include="Tools_Bar\F_Boton_confirmar.vb" />
+    <Compile Include="Tools_Bar\F_Boton_previa.vb" />
+    <Compile Include="Tools_Bar\F_Boton_nuevo.vb" />
+    <Compile Include="Tools_Bar\F_Boton_buscar.vb" />
+    <Compile Include="Tools_Bar\F_Boton_guardar.vb" />
+    <Compile Include="Tools_Bar\F_Boton_limpiar.vb" />
+    <Compile Include="8_Funciones\F_Cargar_Combox.vb" />
+    <Compile Include="Tools_Bar\Barra_desplazamineto\F_siguiente_registro.vb" />
+    <Compile Include="Tools_Bar\Barra_desplazamineto\F_ultimo_registro.vb" />
+    <Compile Include="Tools_Bar\Barra_desplazamineto\F_primer_registro.vb" />
+    <Compile Include="4_Modul_Seguridad\Cambiar_Clave.Designer.vb">
+      <DependentUpon>Cambiar_Clave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Cambiar_Clave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Facturas.Designer.vb">
+      <DependentUpon>Facturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Facturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7_Especial_options\Buscar.Designer.vb">
+      <DependentUpon>Buscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="7_Especial_options\Buscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Ciudades.Designer.vb">
+      <DependentUpon>Ciudades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Ciudades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7_Especial_options\ConsolaSQL.Designer.vb">
+      <DependentUpon>ConsolaSQL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="7_Especial_options\ConsolaSQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Costo_Turno.Designer.vb">
+      <DependentUpon>Costo_Turno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Costo_Turno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Documentos.Designer.vb">
+      <DependentUpon>Documentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Documentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\EscenarioXubica.Designer.vb">
+      <DependentUpon>EscenarioXubica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\EscenarioXubica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_Funciones\F_Permisos_usuarios.vb" />
+    <Compile Include="8_Funciones\F_Datos_reserva.vb" />
+    <Compile Include="Inicio_Sesion.Designer.vb">
+      <DependentUpon>Inicio_Sesion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio_Sesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Nueva_Reserva.Designer.vb">
+      <DependentUpon>Nueva_Reserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_Modul_Facturacion\Nueva_Reserva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Perfiles.Designer.vb">
+      <DependentUpon>Perfiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Perfiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Terceros.Designer.vb">
+      <DependentUpon>Terceros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Terceros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Tipo_Escenarios.Designer.vb">
+      <DependentUpon>Tipo_Escenarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Tipo_Escenarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Tipo_Costo.Designer.vb">
+      <DependentUpon>Tipo_Costo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Tipo_Costo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Turnos.Designer.vb">
+      <DependentUpon>Turnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Turnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Ubicaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Ubicaciones.Designer.vb">
+      <DependentUpon>Ubicaciones.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boromir.Designer.vb">
+      <DependentUpon>Boromir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Boromir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Mov_inventarios.Designer.vb">
+      <DependentUpon>Mov_inventarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_Modul_Inventarios\Mov_inventarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Usuarios.Designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_Funciones\Variables.vb" />
+    <Compile Include="1_Modul_Administracion\Zonas.Designer.vb">
+      <DependentUpon>Zonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_Modul_Administracion\Zonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools_Bar\F_Boton_reversar.vb" />
+    <Compile Include="4_Modul_Seguridad\Licencia.Designer.vb">
+      <DependentUpon>Licencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4_Modul_Seguridad\Licencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_Funciones\F_Filtros_Reportes.vb" />
+    <Compile Include="Touch\Facturas_t.Designer.vb">
+      <DependentUpon>Facturas_t.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Touch\Facturas_t.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="1_Modul_Administracion\Proyectos.resx">
+      <DependentUpon>Proyectos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_Modul_Facturacion\Pedidos.resx">
+      <DependentUpon>Pedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Modul_Inventarios\Ordenes_Compra.resx">
+      <DependentUpon>Ordenes_Compra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_Modul_Seguridad\Auditoria.resx">
+      <DependentUpon>Auditoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_Modul_Ayuda\Acerca.resx">
+      <DependentUpon>Acerca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_Modul_Ayuda\Mensajes.resx">
+      <DependentUpon>Mensajes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6_Modul_Reportes\Vista_Previa.resx">
+      <DependentUpon>Vista_Previa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boromir.be-BY.resx">
+      <DependentUpon>Boromir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boromir.es.resx">
+      <DependentUpon>Boromir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boromir.resx">
+      <DependentUpon>Boromir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_Modul_Ayuda\Manuales.resx">
+      <DependentUpon>Manuales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Conceptos.resx">
+      <DependentUpon>Conceptos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Modul_Inventarios\Productos.resx">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Modul_Inventarios\Saldos.resx">
+      <DependentUpon>Saldos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_Modul_Seguridad\Cambiar_Clave.resx">
+      <DependentUpon>Cambiar_Clave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_Modul_Facturacion\Facturas.resx">
+      <DependentUpon>Facturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_Modul_Facturacion\Cotizaciones.resx">
+      <DependentUpon>Cotizaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7_Especial_options\Buscar.resx">
+      <DependentUpon>Buscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Ciudades.resx">
+      <DependentUpon>Ciudades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7_Especial_options\ConsolaSQL.resx">
+      <DependentUpon>ConsolaSQL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Costo_Turno.resx">
+      <DependentUpon>Costo_Turno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Documentos.resx">
+      <DependentUpon>Documentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\EscenarioXubica.resx">
+      <DependentUpon>EscenarioXubica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_Modul_Seguridad\Empresa.resx">
+      <DependentUpon>Empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio_Sesion.resx">
+      <DependentUpon>Inicio_Sesion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Modul_Inventarios\Mov_inventarios.resx">
+      <DependentUpon>Mov_inventarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_Modul_Facturacion\Nueva_Reserva.resx">
+      <DependentUpon>Nueva_Reserva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_Modul_Seguridad\Perfiles.resx">
+      <DependentUpon>Perfiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Terceros.resx">
+      <DependentUpon>Terceros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Tipo_Escenarios.resx">
+      <DependentUpon>Tipo_Escenarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Tipo_Costo.resx">
+      <DependentUpon>Tipo_Costo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Turnos.resx">
+      <DependentUpon>Turnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Ubicaciones.resx">
+      <DependentUpon>Ubicaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_Modul_Seguridad\Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_Modul_Administracion\Zonas.resx">
+      <DependentUpon>Zonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_Modul_Seguridad\Licencia.resx">
+      <DependentUpon>Licencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6_Modul_Reportes\Reporteador.resx">
+      <DependentUpon>Reporteador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Touch\Facturas_t.resx">
+      <DependentUpon>Facturas_t.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

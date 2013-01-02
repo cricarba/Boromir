@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Cristian\Dropbox\Boromir\Boromir_exe\|C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_exe\|C:\Users\Carvajal\Dropbox\Boromir\Boromir_exe\|C:\Boromir\|D:\Documents\Boromir\Boromir_exe\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>http://sistemasboromir.site50.net|http://pboromir.blogspot.com/</SupportUrlHistory>
+    <UpdateUrlHistory>https://www.dropbox.com/s/ie3rilbutp5ru24/Boromir_exe.rar/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://sistemasboromir.site50.net/News.html|http://pboromir.blogspot.com/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartAction>Project</StartAction>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+  </PropertyGroup>
+</Project>

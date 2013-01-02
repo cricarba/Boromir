@@ -1,0 +1,706 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm9="http://schemas.microsoft.com/dsltools/UseCaseModel"
+  dslVersion="1.0.0.0"
+  Id="aa27b7d9-6335-4bf1-9559-fc1c9e7ca675"
+  name="CU_Facturacion" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <actor
+        Id="5f8472fe-eb7f-476e-8d30-f8334386e9f9"
+        name="Proveedor"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="e5900c46-eb13-45a1-b918-04ef2a344961">
+            <actorMoniker
+              Id="3e8467f6-6ec3-4cf7-a550-44aaee9ff009"
+              LastKnownName="Administrados POS"
+              LastKnownLocation="CU_Boromir.uml" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association
+            Id="7b641601-ca72-402a-a075-26ba42069150"
+            isDerived="false"
+            sourceEndRoleName="Administrador"
+            targetEndRoleName="Ingreso"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="7d5038b7-6f70-4ef7-a196-eafea86928df"
+              LastKnownName="Ingreso de Productos"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="71d62939-52ec-4bbc-99a4-c069bc381d47"
+                  name="Administrador"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="de4900c3-fd71-47bf-b101-5272e882ae77"
+                  name="Ingreso"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="7d5038b7-6f70-4ef7-a196-eafea86928df"
+        name="Ingreso de Productos"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="e7b90f73-c302-4f5d-aedc-22db01efbafe">
+            <useCaseMoniker
+              Id="325c5ec7-bb3c-4574-88a4-e517bbc6a74a"
+              LastKnownName="Sados"
+              LastKnownLocation="CU_Boromir.uml" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker
+            Id="df118f16-a83b-48b5-a4f9-7efa949241af"
+            LastKnownName="Inventarios"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <subsystem
+        Id="df118f16-a83b-48b5-a4f9-7efa949241af"
+        name="Inventarios"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <description>Modulo Inventarios</description>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="e644cc54-65f6-4aa8-ae22-bca5b00432b3"
+            name="process"
+            profile="StandardProfileL2" />
+        </appliedStereotypesInternal>
+      </subsystem>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="325c5ec7-bb3c-4574-88a4-e517bbc6a74a"
+        name="Sados"
+        isAbstract="false"
+        isLeaf="false">
+        <subjects>
+          <subsystemMoniker
+            Id="df118f16-a83b-48b5-a4f9-7efa949241af"
+            LastKnownName="Inventarios"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="3e8467f6-6ec3-4cf7-a550-44aaee9ff009"
+        name="Administrados POS"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="4be40767-3bf2-4c78-89fc-30c6df0ff2e7"
+            isDerived="false"
+            sourceEndRoleName="Administrados POS"
+            targetEndRoleName="Salida de Productos"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="881cb98c-46da-4819-a5fd-6b725100de9f"
+              LastKnownName="Salida de Productos"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5eaf9d80-166d-4df0-892c-c3bbb7d0a15f"
+                  name="Administrados POS"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="831a6355-e229-4c46-a99d-83983735d317"
+                  name="Salida de Productos"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="e53241c9-2288-452c-8a77-29f3713cb4a3"
+            isDerived="false"
+            sourceEndRoleName="Administrados POS"
+            targetEndRoleName="Ajustes"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="319658b2-7e8f-4cff-8833-56c66931b8c5"
+              LastKnownName="Ajustes E/S"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="648f1b80-c9dc-49ff-b047-47628c1f04ac"
+                  name="Administrados POS"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="f2bb8bae-2dbe-4b2b-ac1c-4ecfe39c3d6c"
+                  name="Ajustes"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="233ed362-97f5-41f0-9dc3-e0069eb49e7a"
+            isDerived="false"
+            sourceEndRoleName="Administrados POS"
+            targetEndRoleName="Creacion de  Combos"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="5c44eb39-5985-445a-bfdc-418cf0eabdf4"
+              LastKnownName="Creacion de  Combos"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="2e157a8b-c7f8-4641-8423-d39d9d6ea5a8"
+                  name="Administrados POS"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5f830797-e7cb-41ed-84dd-ec67e97915d1"
+                  name="Creacion de  Combos"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="881cb98c-46da-4819-a5fd-6b725100de9f"
+        name="Salida de Productos"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="d043ce04-73a1-4458-9ea0-16a78c86175c">
+            <useCaseMoniker
+              Id="325c5ec7-bb3c-4574-88a4-e517bbc6a74a"
+              LastKnownName="Sados"
+              LastKnownLocation="CU_Boromir.uml" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker
+            Id="df118f16-a83b-48b5-a4f9-7efa949241af"
+            LastKnownName="Inventarios"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="319658b2-7e8f-4cff-8833-56c66931b8c5"
+        name="Ajustes E/S"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="f1f2ad13-0907-4297-834d-b5870f194afb">
+            <useCaseMoniker
+              Id="325c5ec7-bb3c-4574-88a4-e517bbc6a74a"
+              LastKnownName="Sados"
+              LastKnownLocation="CU_Boromir.uml" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker
+            Id="df118f16-a83b-48b5-a4f9-7efa949241af"
+            LastKnownName="Inventarios"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="5c44eb39-5985-445a-bfdc-418cf0eabdf4"
+        name="Creacion de  Combos"
+        isAbstract="false"
+        isLeaf="false">
+        <subjects>
+          <subsystemMoniker
+            Id="df118f16-a83b-48b5-a4f9-7efa949241af"
+            LastKnownName="Inventarios"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="429fa726-d51d-427f-add1-dbd448a8a2c0"
+        name="Cajero"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="905249a3-bf5d-4df8-812e-439e600727d4">
+            <useCaseMoniker
+              Id="f1177700-cb6e-4b59-8a15-a0628c376968"
+              LastKnownName="Saldos"
+              LastKnownLocation="CU_Boromir.uml" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association
+            Id="e121faec-f623-4642-a8c6-967014cf40e2"
+            isDerived="false"
+            sourceEndRoleName="Cajero"
+            targetEndRoleName="Compra - Venta"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="06f2a4f4-2138-40a0-8208-0d5b0f37082b"
+              LastKnownName="Compra - Venta"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5b35be30-e9e0-4ae1-990d-02915bf70d23"
+                  name="Cajero"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="c1a27f8c-2d9d-4c9b-b242-b84a2f5b1de5"
+                  name="Compra - Venta"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="70446d14-1ac9-4118-8b74-65965db82f4f"
+            isDerived="false"
+            sourceEndRoleName="Cajero"
+            targetEndRoleName="Facturar"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="744932ef-ea68-40dc-82b9-8a1dfcbb9571"
+              LastKnownName="Facturar"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b52f9495-e0ea-454e-b862-2bf5ea465fb4"
+                  name="Cajero"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="d67601c6-9ddb-4df3-b88a-d7c78ee2d2e2"
+                  name="Facturar"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="77693102-4d3a-46f6-9b93-5854018238a4"
+        name="Cliente"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="6273ba24-8a13-4541-8ba5-8c6d7af7d64c"
+            isDerived="false"
+            sourceEndRoleName="Cliente"
+            targetEndRoleName="Comprar"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="06f2a4f4-2138-40a0-8208-0d5b0f37082b"
+              LastKnownName="Compra - Venta"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5c6a3026-9709-4c0a-b3ec-75b5d05db2fa"
+                  name="Cliente"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="58006fbc-4701-4ed1-96cb-d586bcedc997"
+                  name="Comprar"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="e3893859-8460-4158-b277-341ab4daee9b"
+            isDerived="false"
+            sourceEndRoleName="Cliente"
+            targetEndRoleName="Cotizar"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="e3c30535-b166-4247-8545-296e74b00697"
+              LastKnownName="Cotizar"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="e2c8542a-17d0-40e6-9ee2-bd2d6313c283"
+                  name="Cliente"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="f22953fb-db32-411d-a99e-5d382ec0e682"
+                  name="Cotizar"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="f92b70c6-e529-4f29-a477-2c783c47b996"
+            isDerived="false"
+            sourceEndRoleName="Cliente"
+            targetEndRoleName="Reservar"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="aacfb5eb-7f51-4dca-a7f2-e93b818507f8"
+              LastKnownName="Reservar"
+              LastKnownLocation="CU_Boromir.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="47365670-f0fa-4115-bd3e-c5a291be8043"
+                  name="Cliente"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="f2b4abf6-268a-42d8-9bbd-806b64e58618"
+                  name="Reservar"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <subsystem
+        Id="bb54a45b-d435-4b69-a09d-b47ea1b30978"
+        name="Facturacion"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="f2fb6330-d41c-4567-96e6-4af4df6eb3a8"
+            name="process"
+            profile="StandardProfileL2" />
+        </appliedStereotypesInternal>
+      </subsystem>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="06f2a4f4-2138-40a0-8208-0d5b0f37082b"
+        name="Compra - Venta"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="1249b2bb-8136-4824-82c1-632e713b9386">
+            <useCaseMoniker
+              Id="744932ef-ea68-40dc-82b9-8a1dfcbb9571"
+              LastKnownName="Facturar"
+              LastKnownLocation="CU_Boromir.uml" />
+          </dependency>
+        </suppliersInternal>
+        <extendedCases>
+          <extend
+            Id="186691c7-722e-476b-85e7-41afe6808f79">
+            <useCaseMoniker
+              Id="f1177700-cb6e-4b59-8a15-a0628c376968"
+              LastKnownName="Saldos"
+              LastKnownLocation="CU_Boromir.uml" />
+          </extend>
+        </extendedCases>
+        <subjects>
+          <subsystemMoniker
+            Id="bb54a45b-d435-4b69-a09d-b47ea1b30978"
+            LastKnownName="Facturacion"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="c4ad70b4-21ef-4f3f-8b41-8a69f536f800"
+        name="Vender"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="e3c30535-b166-4247-8545-296e74b00697"
+        name="Cotizar"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="57cd2ada-372b-47dd-bbdd-1ec5b4d1e158">
+            <useCaseMoniker
+              Id="f1177700-cb6e-4b59-8a15-a0628c376968"
+              LastKnownName="Saldos"
+              LastKnownLocation="CU_Boromir.uml" />
+          </extend>
+        </extendedCases>
+        <subjects>
+          <subsystemMoniker
+            Id="bb54a45b-d435-4b69-a09d-b47ea1b30978"
+            LastKnownName="Facturacion"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="f1177700-cb6e-4b59-8a15-a0628c376968"
+        name="Saldos"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="aacfb5eb-7f51-4dca-a7f2-e93b818507f8"
+        name="Reservar"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="653102be-7106-40e0-a98b-263469a87340">
+            <useCaseMoniker
+              Id="c87cc452-998c-4c9a-b38a-dc85bfc0eea4"
+              LastKnownName="Escenarios"
+              LastKnownLocation="CU_Boromir.uml" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker
+            Id="bb54a45b-d435-4b69-a09d-b47ea1b30978"
+            LastKnownName="Facturacion"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="66353a92-54d4-409e-af8d-44857817353d"
+        name="Ubicaciones"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="c87cc452-998c-4c9a-b38a-dc85bfc0eea4"
+        name="Escenarios"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="744932ef-ea68-40dc-82b9-8a1dfcbb9571"
+        name="Facturar"
+        isAbstract="false"
+        isLeaf="false">
+        <subjects>
+          <subsystemMoniker
+            Id="bb54a45b-d435-4b69-a09d-b47ea1b30978"
+            LastKnownName="Facturacion"
+            LastKnownLocation="CU_Boromir.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="23c546e3-052e-4813-84ad-7ceeff5ace4a"
+        name="Actor1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

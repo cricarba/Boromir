@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="bb179aea-4116-4b52-9e08-529dd6617423" name="Inventarios" linkedPackageId="5de8cc1f-b82b-4017-ae5f-fedfd7919e99" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="4ad54a8d-29dd-4d2a-bfa0-ca2cfc3f99dc" name="Proveedor" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5f8472fe-eb7f-476e-8d30-f8334386e9f9" />
+        <suppliersInternal>
+          <dependency Id="5aa97033-7b11-4d23-82d7-d8534e3b298c">
+            <actorMoniker Id="f44d064a-3bfb-4c23-b2c2-62c7c2914879" LastKnownName="Administrados POS" />
+            <elementDefinition Id="e5900c46-eb13-45a1-b918-04ef2a344961" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="42b1f522-ee88-49e7-bacf-24b7e22cdfea" isDerived="false" sourceEndRoleName="Administrador" targetEndRoleName="Ingreso" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="6e1efc25-2f1c-4ae1-8038-11791985f039" LastKnownName="Ingreso de Productos" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="bb331429-1f23-44ed-8fc2-30485227e80e" name="Administrador" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="71d62939-52ec-4bbc-99a4-c069bc381d47" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="77aa0645-8fc7-4d18-877b-f9ff2849ce0a" name="Ingreso" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="de4900c3-fd71-47bf-b101-5272e882ae77" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="7b641601-ca72-402a-a075-26ba42069150" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="6e1efc25-2f1c-4ae1-8038-11791985f039" name="Ingreso de Productos" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="7d5038b7-6f70-4ef7-a196-eafea86928df" />
+        <additions>
+          <include Id="bcfa5392-6427-4962-a0af-a94d6cbdde0a">
+            <useCaseMoniker Id="4d2fdc2f-a086-4cde-9e30-4b1efa781f99" LastKnownName="Sados" />
+            <elementDefinition Id="e7b90f73-c302-4f5d-aedc-22db01efbafe" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker Id="ae833320-3215-4ca6-8a7f-288182ef4766" LastKnownName="Inventarios" />
+        </subjects>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <subsystem Id="ae833320-3215-4ca6-8a7f-288182ef4766" name="Inventarios" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <description>Modulo Inventarios</description>
+        <appliedStereotypesInternal>
+          <stereotypeInstance Id="904eb0a1-3bf6-402c-8273-d07d34fc5e1c" name="process" profile="StandardProfileL2">
+            <elementDefinition Id="e644cc54-65f6-4aa8-ae22-bca5b00432b3" />
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <elementDefinition Id="df118f16-a83b-48b5-a4f9-7efa949241af" />
+      </subsystem>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="4d2fdc2f-a086-4cde-9e30-4b1efa781f99" name="Sados" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="325c5ec7-bb3c-4574-88a4-e517bbc6a74a" />
+        <subjects>
+          <subsystemMoniker Id="ae833320-3215-4ca6-8a7f-288182ef4766" LastKnownName="Inventarios" />
+        </subjects>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="f44d064a-3bfb-4c23-b2c2-62c7c2914879" name="Administrados POS" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="3e8467f6-6ec3-4cf7-a550-44aaee9ff009" />
+        <targetEnds>
+          <association Id="3bc0a0d8-5780-4f62-9f82-3f88794673a1" isDerived="false" sourceEndRoleName="Administrados POS" targetEndRoleName="Salida de Productos" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="5adcfd10-7026-4452-87e7-ef78fc489a4e" LastKnownName="Salida de Productos" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="9f899853-c8af-4aba-95b6-debf449bc3f1" name="Administrados POS" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="5eaf9d80-166d-4df0-892c-c3bbb7d0a15f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="0232e769-8a2b-4e8f-a085-9f2fa21268d2" name="Salida de Productos" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="831a6355-e229-4c46-a99d-83983735d317" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="4be40767-3bf2-4c78-89fc-30c6df0ff2e7" />
+          </association>
+          <association Id="6de66889-87c5-4b4f-92b7-73bcf703c9c0" isDerived="false" sourceEndRoleName="Administrados POS" targetEndRoleName="Ajustes" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="7cc8fa41-eed9-4353-baab-c1b5cf63e058" LastKnownName="Ajustes E/S" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="fa3bb87a-b22e-4718-abc4-e5d44b9ec728" name="Administrados POS" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="648f1b80-c9dc-49ff-b047-47628c1f04ac" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f9b90cf9-fe14-4fe8-b780-a0c551f7b25c" name="Ajustes" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="f2bb8bae-2dbe-4b2b-ac1c-4ecfe39c3d6c" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="e53241c9-2288-452c-8a77-29f3713cb4a3" />
+          </association>
+          <association Id="0eb6862a-941d-4629-a8e3-67f6f9325db9" isDerived="false" sourceEndRoleName="Administrados POS" targetEndRoleName="Creacion de  Combos" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="20b3f6aa-3cbe-4be8-b83b-f12e53a78383" LastKnownName="Creacion de  Combos" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="acb4c189-d7a8-4d36-83b2-0095482fc877" name="Administrados POS" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="2e157a8b-c7f8-4641-8423-d39d9d6ea5a8" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="725f7a0e-b514-4951-a082-fd484eba247f" name="Creacion de  Combos" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="5f830797-e7cb-41ed-84dd-ec67e97915d1" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="233ed362-97f5-41f0-9dc3-e0069eb49e7a" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <packageHasNamedElement>
+      <useCase Id="5adcfd10-7026-4452-87e7-ef78fc489a4e" name="Salida de Productos" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="881cb98c-46da-4819-a5fd-6b725100de9f" />
+        <additions>
+          <include Id="8b441565-ab41-49ff-8e48-4be74a5456fd">
+            <useCaseMoniker Id="4d2fdc2f-a086-4cde-9e30-4b1efa781f99" LastKnownName="Sados" />
+            <elementDefinition Id="d043ce04-73a1-4458-9ea0-16a78c86175c" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker Id="ae833320-3215-4ca6-8a7f-288182ef4766" LastKnownName="Inventarios" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase Id="7cc8fa41-eed9-4353-baab-c1b5cf63e058" name="Ajustes E/S" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="319658b2-7e8f-4cff-8833-56c66931b8c5" />
+        <additions>
+          <include Id="57a68621-58a8-4cc0-ae6f-1c6b5c26a6a4">
+            <useCaseMoniker Id="4d2fdc2f-a086-4cde-9e30-4b1efa781f99" LastKnownName="Sados" />
+            <elementDefinition Id="f1f2ad13-0907-4297-834d-b5870f194afb" />
+          </include>
+        </additions>
+        <subjects>
+          <subsystemMoniker Id="ae833320-3215-4ca6-8a7f-288182ef4766" LastKnownName="Inventarios" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase Id="20b3f6aa-3cbe-4be8-b83b-f12e53a78383" name="Creacion de  Combos" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5c44eb39-5985-445a-bfdc-418cf0eabdf4" />
+        <subjects>
+          <subsystemMoniker Id="ae833320-3215-4ca6-8a7f-288182ef4766" LastKnownName="Inventarios" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="5de8cc1f-b82b-4017-ae5f-fedfd7919e99" name="CU_Facturacion">
+    <elementDefinition Id="aa27b7d9-6335-4bf1-9559-fc1c9e7ca675" />
+    <profileInstances>
+      <packageHasProfileInstances Id="9e5de17d-fbd0-4019-b22f-3e775f6650fb">
+        <profileInstance Id="f2e53b83-db8a-438d-98eb-91853076dd46" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="5a416f5d-2f24-461b-b944-f1bd213228f1">
+        <profileInstance Id="7c11ede6-451d-4c9b-b155-531c3dce8b72" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</useCaseModelRoot>

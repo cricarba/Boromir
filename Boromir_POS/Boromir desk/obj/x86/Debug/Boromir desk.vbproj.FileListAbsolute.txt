@@ -1,0 +1,1035 @@
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+c:\users\soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\documents\visual studio 2010\Projects\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_reserva.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Documents\Visual Studio 2010\Projects\Boromir desk 27_04_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_reserva.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_reserva.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 4.5.11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk 09_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 09_05_11_i\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk 10_05_11\Boromir desk 4.5.11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Canchas.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.be-BY.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.MDIParent1.es.resources
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+C:\Documents and Settings\Cristian Carvajal\Mis documentos\Downloads\Boromir desk 13_05_11\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+G:\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+G:\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+G:\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+G:\Boromir desk\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+G:\Boromir desk\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+G:\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+D:\Documents\Boromir\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+D:\Documents\Boromir\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+D:\Documents\Boromir\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+D:\Documents\Boromir\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturacion.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+G:\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca_de.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+C:\Users\Soporte_1\Downloads\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.exe
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.xml
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir desk.pdb
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir desk.exe
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir desk.pdb
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir desk.xml
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\bin\Debug\es\Boromir desk.resources.dll
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir desk.resources.dll
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir desk.resources.dll
+D:\Documents\Boromir\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir.exe
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir.pdb
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir.xml
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\es\Boromir.resources.dll
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.xml
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.pdb
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir.exe.manifest
+G:\boromir\Boromir desk\Boromir desk\bin\Debug\Boromir.application
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+G:\boromir\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.application
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.xml
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.pdb
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\Boromir.exe.manifest
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\Boromir.application
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\Boromir.exe
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\Boromir.pdb
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\Boromir.xml
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\bin\Debug\es\Boromir.resources.dll
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+C:\Users\Soporte_1\Desktop\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.application
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.xml
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.pdb
+G:\Boromir desk\Boromir desk\bin\Debug\Boromir.exe.manifest
+G:\Boromir desk\Boromir desk\bin\Debug\Boromir.application
+G:\Boromir desk\Boromir desk\bin\Debug\Boromir.exe
+G:\Boromir desk\Boromir desk\bin\Debug\Boromir.pdb
+G:\Boromir desk\Boromir desk\bin\Debug\Boromir.xml
+G:\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+G:\Boromir desk\Boromir desk\bin\Debug\es\Boromir.resources.dll
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+G:\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+G:\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+G:\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.application
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Consultar_Reservas.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir.application
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\bin\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir desk\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.application
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\Boromir.application
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\bin\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir desk 25_07_11\Boromir desk\Boromir desk\obj\x86\Debug\Boromir.application
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+G:\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+G:\Boromir\Boromir desk\bin\Debug\Boromir.application
+G:\Boromir\Boromir desk\bin\Debug\Boromir.exe
+G:\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+G:\Boromir\Boromir desk\bin\Debug\Boromir.xml
+G:\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+G:\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+G:\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+G:\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.application
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Form_buscar.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.application
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.340.tlog
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\Boromir.application
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\Boromir.exe
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\Boromir.xml
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.340.tlog
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Reporteador.resources
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\RdlCompile.cache
+C:\Users\MyGSistemas\Downloads\Boromir\Boromir desk\obj\x86\Debug\RdlCompile.compiled
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+H:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+H:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.application
+H:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe
+H:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+H:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.xml
+H:\Boromir\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+H:\Boromir\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.340.tlog
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+H:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+F:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.application
+F:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe
+F:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+F:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.xml
+F:\Boromir\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+F:\Boromir\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.TrustInfo.xml
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+I:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+I:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.application
+I:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.exe
+I:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+I:\Boromir\Boromir\Boromir desk\bin\Debug\Boromir.xml
+I:\Boromir\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+I:\Boromir\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.TrustInfo.xml
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+I:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+F:\Boromir\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Conceptos.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir desk\bin\Debug\Boromir.application
+D:\Documents\Boromir\Boromir desk\bin\Debug\Boromir.exe
+D:\Documents\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+D:\Documents\Boromir\Boromir desk\bin\Debug\Boromir.xml
+D:\Documents\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Conceptos.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir.TrustInfo.xml
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+D:\Documents\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+F:\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+F:\Boromir\Boromir desk\bin\Debug\Boromir.application
+F:\Boromir\Boromir desk\bin\Debug\Boromir.exe
+F:\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+F:\Boromir\Boromir desk\bin\Debug\Boromir.xml
+F:\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+F:\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+F:\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Conceptos.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+F:\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir.TrustInfo.xml
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Saldos.resources
+F:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Manuales.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir.xml
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir.pdb
+I:\Boromir\Boromir desk\bin\Debug\Boromir.exe.manifest
+I:\Boromir\Boromir desk\bin\Debug\Boromir.application
+I:\Boromir\Boromir desk\bin\Debug\Boromir.exe
+I:\Boromir\Boromir desk\bin\Debug\Boromir.pdb
+I:\Boromir\Boromir desk\bin\Debug\Boromir.xml
+I:\Boromir\Boromir desk\bin\Debug\be-BY\Boromir.resources.dll
+I:\Boromir\Boromir desk\bin\Debug\es\Boromir.resources.dll
+I:\Boromir\Boromir desk\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Acerca.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Manuales.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Conceptos.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Saldos.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Cambiar_Clave.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Facturas.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Buscar.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ciudades.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.ConsolaSQL.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Costo_Turno.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Documentos.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.EscenarioXubica.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Inicio_Sesion.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Resources.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Nueva_Reserva.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Perfiles.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Terceros.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Escenarios.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Tipo_Costo.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Turnos.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Ubicaciones.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Usuarios.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Zonas.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.be-BY.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Boromir.es.resources
+I:\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Boromir\Boromir desk\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Boromir\Boromir desk\obj\x86\Debug\be-BY\Boromir.resources.dll
+I:\Boromir\Boromir desk\obj\x86\Debug\es\Boromir.resources.dll
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir.TrustInfo.xml
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir.exe.manifest
+I:\Boromir\Boromir desk\obj\x86\Debug\Boromir.application
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Manuales.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Conceptos.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Productos.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Saldos.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Mov_inventarios.resources
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir.TrustInfo.xml
+G:\Boromir\Boromir desk\obj\x86\Debug\Boromir_desk.Empresa.resources
+G:\Boromir\Boromir desk\bin\Debug\Boromir.exe.config

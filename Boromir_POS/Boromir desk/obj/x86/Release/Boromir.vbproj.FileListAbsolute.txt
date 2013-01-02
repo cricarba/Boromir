@@ -1,0 +1,429 @@
+D:\Boromir\Boromir desk\bin\Release\Boromir.exe.manifest
+D:\Boromir\Boromir desk\bin\Release\Boromir.application
+D:\Boromir\Boromir desk\bin\Release\Boromir.exe
+D:\Boromir\Boromir desk\bin\Release\Boromir.pdb
+D:\Boromir\Boromir desk\bin\Release\Boromir.xml
+D:\Boromir\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+D:\Boromir\Boromir desk\bin\Release\es\Boromir.resources.dll
+D:\Boromir\Boromir desk\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Combos.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+D:\Boromir\Boromir desk\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Boromir\Boromir desk\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Boromir\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+D:\Boromir\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.application
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.exe
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.xml
+D:\Boromir\Boromir desk\obj\x86\Release\Boromir.pdb
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.exe
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.pdb
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Combos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\Boromir.exe.manifest
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\Boromir.application
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\Boromir.exe
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\Boromir.pdb
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\Boromir.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\bin\Release\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir\Boromir desk\obj\x86\Release\Boromir.application
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.exe
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.pdb
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.exe.manifest
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.application
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.exe
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.pdb
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.application
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.exe
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.xml
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.pdb
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.exe.manifest
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.application
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.exe
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.pdb
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.xml
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\bin\Release\es\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.application
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.exe
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.xml
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.pdb
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.exe.manifest
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.application
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.exe
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.pdb
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\Boromir.xml
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\bin\Release\es\Boromir.resources.dll
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.vbprojResolveAssemblyReference.cache
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Combos.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.vbproj.GenerateResource.Cache
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+D:\Documents\Backups boromir\Boromir_Fuentes\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.application
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.vbprojResolveAssemblyReference.cache
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_Fuentes\Boromir desk\obj\x86\Release\Boromir.vbproj.GenerateResource.Cache
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.exe
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.pdb
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.exe
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.xml
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.pdb
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.exe.manifest
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.application
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.exe
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.pdb
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.xml
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\es\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.vbprojResolveAssemblyReference.cache
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.vbproj.GenerateResource.Cache
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+C:\Users\Carvajal\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.application
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.exe.manifest
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.application
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.exe
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.pdb
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+C:\Users\MyGSistemas\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.application
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.exe.manifest
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.application
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.exe
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.pdb
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Boromir.xml
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\be-BY\Boromir.resources.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\es\Boromir.resources.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\bin\Release\Pegazux.Controls.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Proyectos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Pedidos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ordenes_Compra.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Auditoria.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Acerca.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Mensajes.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Vista_Previa.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Manuales.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Conceptos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Productos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Saldos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Cambiar_Clave.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Facturas.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Cotizaciones.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Buscar.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ciudades.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.ConsolaSQL.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Costo_Turno.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Documentos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.EscenarioXubica.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Empresa.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Inicio_Sesion.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Mov_inventarios.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Resources.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Nueva_Reserva.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Perfiles.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Terceros.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Tipo_Escenarios.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Tipo_Costo.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Turnos.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Ubicaciones.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Usuarios.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Zonas.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Licencia.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Reporteador.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Facturas_t.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.be-BY.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.Boromir.es.resources
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\be-BY\Boromir.resources.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\es\Boromir.resources.dll
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.TrustInfo.xml
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.exe.manifest
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.application
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.exe
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.xml
+C:\Users\Cristian\Dropbox\Boromir\Boromir_POS\Boromir desk\obj\x86\Release\Boromir.pdb
